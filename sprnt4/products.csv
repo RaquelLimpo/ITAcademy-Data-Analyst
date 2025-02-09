@@ -1,0 +1,101 @@
+id,product_name,price,colour,weight,warehouse_id
+1,Direwolf Stannis,$161.11,#7c7c7c,1,WH-4
+2,Tarly Stark,$9.24,#919191,2,WH-3
+3,duel tourney Lannister,$171.13,#d8d8d8,1.5,WH-2
+4,warden south duel,$71.89,#111111,3,WH-1
+5,skywalker ewok,$171.22,#dbdbdb,3.2,WH-0
+6,dooku solo,$136.60,#c4c4c4,0.8,WH--1
+7,north of Casterly,$63.33,#b7b7b7,0.6,WH--2
+8,Winterfell,$32.37,#383838,1.4,WH--3
+9,Winterfell,$76.40,#b5b5b5,1.2,WH--4
+10,Karstark Dorne,$119.52,#f4f4f4,2.4,WH--5
+11,Karstark Dorne,$49.70,#141414,2.7,WH--6
+12,duel Direwolf,$181.60,#a8a8a8,2.1,WH--7
+13,palpatine chewbacca,$139.59,#2b2b2b,1,WH--8
+14,Direwolf,$147.53,#c4c4c4,2,WH--9
+15,Stannis warden,$194.29,#dbdbdb,1.5,WH--10
+16,the duel warden,$180.91,#666666,3,WH--11
+17,skywalker ewok sith,$91.89,#7c7c7c,3.2,WH--12
+18,Karstark warden,$148.91,#c4c4c4,0.8,WH--13
+19,dooku solo,$60.33,#3f3f3f,0.6,WH--14
+20,warden Karstark,$91.96,#b5b5b5,1.4,WH--15
+21,duel Direwolf,$96.90,#e2e2e2,1.2,WH--16
+22,chewbacca mustafar,$150.02,#fcfcfc,2.4,WH--17
+23,riverlands north,$169.96,#545454,2.7,WH--18
+24,south duel tourney,$48.99,#aaaaaa,2.1,WH--19
+25,skywalker ewok,$157.53,#2b2b2b,1,WH--20
+26,Stark Karstark,$53.01,#898989,2,WH--21
+27,Stannis riverlands,$172.93,#7a7a7a,1.5,WH--22
+28,chewbacca mustafar,$127.44,#efefef,3,WH--23
+29,Tully maester Tarly,$167.20,#111111,3.2,WH--24
+30,Karstark warden,$79.53,#606060,0.8,WH--25
+31,Lannister,$85.02,#3f3f3f,0.6,WH--26
+32,north,$178.28,#0f0f0f,1.4,WH--27
+33,duel warden,$127.09,#191919,1.2,WH--28
+34,of north,$128.48,#919191,2.4,WH--29
+35,the giantsblood maester,$107.17,#8c8c8c,2.7,WH--30
+36,Lannister,$96.22,#a5a5a5,2.1,WH--31
+37,Direwolf Littlefinger,$26.66,#aaaaaa,1,WH--32
+38,ewok sith,$55.43,#666666,2,WH--33
+39,warden,$196.65,#a0a0a0,1.5,WH--34
+40,tatooine dooku solo,$73.31,#070707,3,WH--35
+41,Lannister Barratheon Direwolf,$141.01,#fcfcfc,3.2,WH--36
+42,sith,$83.51,#494949,0.8,WH--37
+43,duel,$59.80,#5b5b5b,0.6,WH--38
+44,Karstark Dorne,$105.48,#878787,1.4,WH--39
+45,south,$92.65,#bfbfbf,1.2,WH--40
+46,giantsblood maester Karstark,$58.78,#2b2b2b,2.4,WH--41
+47,Tully,$82.15,#919191,2.7,WH--42
+48,rock Renly in,$21.53,#9e9e9e,2.1,WH--43
+49,the giantsblood maester,$53.31,#e2e2e2,1,WH--44
+50,in,$124.04,#7a7a7a,2,WH--45
+51,north Tully,$30.14,#262626,1.5,WH--46
+52,riverlands the duel,$31.52,#727272,3,WH--47
+53,kingsblood Littlefinger the,$137.81,#3a3a3a,3.2,WH--48
+54,dooku solo,$13.14,#e5e5e5,0.8,WH--49
+55,Tully maester,$3.83,#6d6d6d,0.6,WH--50
+56,Direwolf riverlands,$167.07,#5b5b5b,1.4,WH--51
+57,Direwolf Stannis riverlands,$170.76,#848484,1.2,WH--52
+58,solo palpatine chewbacca,$130.59,#2b2b2b,2.4,WH--53
+59,Direwolf Stannis,$114.77,#bcbcbc,2.7,WH--54
+60,rock Renly,$68.38,#898989,2.1,WH--55
+61,Winterfell Lannister,$28.01,#848484,1,WH--56
+62,the duel,$188.94,#666666,2,WH--57
+63,Jade tatooine dooku,$188.58,#dbdbdb,1.5,WH--58
+64,Direwolf,$195.62,#b7b7b7,3,WH--59
+65,riverlands the,$121.91,#6b6b6b,3.2,WH--60
+66,mustafar jinn,$2.12,#545454,0.8,WH--61
+67,Winterfell,$195.94,#1c1c1c,0.6,WH--62
+68,Stark Karstark,$167.37,#333333,1.4,WH--63
+69,Littlefinger the giantsblood,$57.25,#b7b7b7,1.2,WH--64
+70,Direwolf Stannis,$6.93,#c9c9c9,2.4,WH--65
+71,Tully Dorne,$103.73,#424242,2.7,WH--66
+72,north,$161.60,#474747,2.1,WH--67
+73,Dorne bastard,$114.09,#848484,1,WH--68
+74,duel warden,$158.29,#707070,2,WH--69
+75,giantsblood maester Karstark,$9.46,#f9f9f9,1.5,WH--70
+76,Littlefinger Tarly,$65.07,#686868,3,WH--71
+77,Tarly Littlefinger,$150.50,#f4f4f4,3.2,WH--72
+78,Karstark warden,$178.85,#919191,0.8,WH--73
+79,Direwolf riverlands the,$132.86,#b2b2b2,0.6,WH--74
+80,Tarly Stark,$14.10,#020202,1.4,WH--75
+81,the duel,$15.87,#7f7f7f,1.2,WH--76
+82,kingsblood Littlefinger the,$12.45,#545454,2.4,WH--77
+83,duel tourney,$26.51,#cccccc,2.7,WH--78
+84,Karstark Tully Dorne,$92.91,#353535,2.1,WH--79
+85,bastard of north,$62.62,#474747,1,WH--80
+86,Stark kingsblood,$189.21,#141414,2,WH--81
+87,sith Jade,$96.26,#e2e2e2,1.5,WH--82
+88,Stannis warden south,$167.15,#515151,3,WH--83
+89,skywalker ewok,$172.78,#636363,3.2,WH--84
+90,Winterfell,$39.73,#757575,0.8,WH--85
+91,the duel,$59.76,#adadad,0.6,WH--86
+92,Stannis warden,$168.49,#afafaf,1.4,WH--87
+93,Littlefinger Tarly Stark,$192.60,#efefef,1.2,WH--88
+94,in south Winterfell,$51.94,#3a3a3a,2.4,WH--89
+95,riverlands north Direwolf,$6.90,#c1c1c1,2.7,WH--90
+96,dooku solo,$20.92,#282828,2.1,WH--91
+97,jinn Winterfell,$65.25,#bababa,1,WH--92
+98,Direwolf Littlefinger,$38.33,#bababa,2,WH--93
+99,the duel,$151.78,#212121,1.5,WH--94
+100,south duel,$40.43,#6d6d6d,3,WH--95
